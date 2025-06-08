@@ -102,7 +102,7 @@ esp32_improv:
 captive_portal:
 
 dashboard_import:
-  package_import_url: github://Gitshaoxiang/firmware/wake-word-voice-assistant/m5stack-cores3.yaml@main
+  package_import_url: github://funkstille/firmware-m5stack/wake-word-voice-assistant/m5stack-cores3.yaml@main
 
 # 
 # Globals
